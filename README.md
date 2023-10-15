@@ -4,3 +4,5 @@
 
 
 using Gaussian regression to predict stock price trends
+
+to view the project directly, view the documents mamed: Graduation Thesis
